@@ -1,0 +1,21 @@
+header {
+    height: 48px;
+    background-color: #F7F5E3;
+    display: flex;
+    justify-content: center;
+    nav {
+        flex: 1;
+        max-width: $content-width;
+        ul {
+            padding: 0;
+            list-style-type: none;
+            display: flex;
+            flex-direction: row;
+            max-width: $content-width;
+            li {
+                flex: 1;
+                text-align: center;
+            }
+        }
+    }
+}
