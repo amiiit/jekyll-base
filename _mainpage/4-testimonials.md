@@ -2,6 +2,7 @@
 title: Testimonials
 ---
 # Testimonials
+
   "I have joined Anya's classes a few times in Nerja and she is a wonderful vinyasa flow teacher. Highly professional and experienced with a passion for what she does and with a truly important compassionate touch to her classes and the people who attend. Her vinyasa classes are wonderful and for everyone and any age. Thank you Anya! we miss you in Nerja!"
 Jo Bradley
 
