@@ -1,4 +1,5 @@
 <div class='main-section'>
-    <h1>Main Page......</h1>
-    {{lines}}
+    {% for line in page.lines %}
+    <div class='line-{{ forloop.index }}'>{{ line }}</div>
+    {% endfor %}
 </div>
