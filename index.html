@@ -3,6 +3,7 @@ layout: default
 ---
 <div class="mainpage">
   {% for section in site.mainpage %}
+    <a id='{{ section.title | downcase | remove: " "}}'
     <div class='section'> {{ section }} </div>
   {% endfor %}
 </div>

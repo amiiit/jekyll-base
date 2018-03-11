@@ -1,5 +1,5 @@
 ---
-title: Yoga Flow
+title: Home
 layout: main-section
 lines:
     - Anya
