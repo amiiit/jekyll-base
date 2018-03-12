@@ -4,12 +4,7 @@ body {
     font-family: Arial,Helvetica,sans-serif;
 }
 
-$color-1: #E6C54D;
-$color-2: #998024;
-$color-3: #66EAD6;
-$color-4: #B22AB3;
-$color-5: #992C99;
-$black: rgba(0,0,0,.7);
-
+@import './_fonts.scss';
+@import './_colors.scss';
 @import './_header.scss';
 @import './_main-page.scss';
