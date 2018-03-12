@@ -1,6 +1,6 @@
 header {
     height: 69px;
-    background-color: #F7F5E3;
+    background-color: $color-1;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -19,8 +19,9 @@ header {
                 transition-property: color;
                 transition-timing-function: ease;
                 transition-duration: .4s;
+                color: $black;
                 &:hover {
-                    color: #48AECB;
+                    color: $color-2;
                 }
             }
         }
